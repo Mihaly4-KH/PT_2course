@@ -1,0 +1,4 @@
+config.ini
+*.log
+build/
+tmp_*
